@@ -1,0 +1,186 @@
+@media only screen and (max-width:575px ){
+  
+  .navbar-brand img {
+    height: 45px;
+}
+
+.nav-btn button{
+  margin: 20px 0;
+}
+  
+  .banner-content {
+    color: #121111c3;
+  text-align: center;
+  color: #fff;
+  }
+
+  .banner-content p {
+  color: #121111f3;
+  padding: 20px 0px;
+}
+
+.feature-services{
+  width: 100%;
+  margin-bottom: 0;
+}
+
+.service-content{
+  padding-top: 50px;
+   text-align: center;
+ }
+
+ .service-content h5{
+  font-size: 23px;
+ }
+.service-content h3{
+font-size: 30px;
+}
+ .feature-heading h1 {
+  font-size: 30px;
+  text-transform: uppercase;
+  color: var(--text);
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+.flower img {
+  width: 119px;
+  margin-top: -131px;
+}
+
+.seller-content h1{
+font-size: 30px;
+}
+.machine{
+  text-align: center;
+}
+.machine-img {
+  width: 100%;
+  text-align: center;
+}
+.nav-items{
+  display: flex;
+  width: 100%;
+}
+
+.nav-links{
+  padding: 12px 40px;
+  background: #f0eaeace;
+ border: none;
+  outline: none ;
+  color:var(--heading-clr);
+ margin: 12px 0px;
+  text-transform: uppercase;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+ width: 100%;
+
+}
+
+.about-content h1{
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+.machine-img img {
+  width: 40%;
+}
+
+.machine-img {
+width: 100%;
+text-align: center;
+margin-bottom: 60px;
+}
+
+.side-img img {
+  width: 75px;
+  margin-top: 70px;
+}
+
+.facial-heading {
+  text-align: center;
+  padding: 60px 4px;
+}
+
+
+}
+
+
+@media only screen and (max-width:767px) and (min-width:576px)  {
+ 
+ 
+ 
+  .banner-content {
+    color: #121111c3;
+  text-align: center;
+  color: #fff;
+  }
+
+  .banner-content p {
+  color: #121111f3;
+  padding: 20px 0px;
+}
+
+.feature-services{
+  width: 100%;
+  margin-bottom: 0;
+}
+
+.service-content{
+ padding-top: 50px;
+  text-align: center;
+}
+.feature-heading h1 {
+  font-size: 63px;
+  text-transform: uppercase;
+  color: var(--text);
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.seller-content h1{
+  font-size: 30px;
+  }
+.machine-img img {
+  width: 40%;
+}
+
+.machine-img {
+width: 100%;
+text-align: center;
+margin-bottom: 60px;
+}
+.facial-heading h3{
+  font-size: 20px;
+}
+}
+
+@media only screen and (max-width:991px) and (min-width:768px){
+
+  
+
+  .machine-img img {
+    width: 40%;
+}
+
+.machine-img {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 60px;
+}
+}
+
+@media only screen and (max-width:1199px) and (min-width:992px){
+ .navbar-nav{
+  display: flex;
+width: 100%;
+  align-items: center;
+  
+
+ }
+
+ .nav-icons{
+  display: flex;
+  align-items: center;
+ }
+}
